@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">🔥 FRONTEND DEVELOPER 🔥 PICTian 🔥 Mobile Developer</h3>
+<h3 align="center">🔥 FULL-STACK DEVELOPER 🔥 PICTian 🔥 Mobile App Developer</h3>
 
 - 🌱 I’m currently learning **React, DSA**
 
