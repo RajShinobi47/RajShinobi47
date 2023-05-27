@@ -8,6 +8,12 @@
     ![LeetCode Stats](https://leetcard.jacoblin.cool/i_raj_shinobi_47?theme=unicorn&font=Cutive%20Mono&ext=heatmap)
 
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=RajShinobi47
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajShinobi47&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/raj-gandole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-gandole/" height="30" width="40" /></a>
