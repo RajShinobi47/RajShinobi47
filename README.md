@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rajgandole47@gmail.com**
 <p align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/i_raj_shinobi_47?theme=unicorn&font=Cutive%20Mono&ext=heatmap)
+<img src="![LeetCode Stats](https://leetcard.jacoblin.cool/i_raj_shinobi_47?theme=unicorn&font=Cutive%20Mono&ext=heatmap)" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
