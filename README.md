@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning **React, DSA**
 
 - 📫 How to reach me **rajgandole47@gmail.com**
-<p align="center">
-<img src="![LeetCode Stats](https://leetcard.jacoblin.cool/i_raj_shinobi_47?theme=unicorn&font=Cutive%20Mono&ext=heatmap)" />
-</p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/i_raj_shinobi_47?theme=unicorn&font=Cutive%20Mono&ext=heatmap)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
