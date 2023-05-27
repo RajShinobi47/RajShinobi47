@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React, DSA**
 
 - 📫 How to reach me **rajgandole47@gmail.com**
-- 😀 <h2 >LEETCODE ~ <a href="https://www.leetcode.com/https://leetcode.com/i_raj_shinobi_47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/i_raj_shinobi_47/" height="30" width="40" /></a> </h2>
+- 😀 <h2 >LEETCODE ~ <a href="https://leetcode.com/i_raj_shinobi_47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/i_raj_shinobi_47/" height="30" width="40" /></a> </h2>
     ![LeetCode Stats](https://leetcard.jacoblin.cool/i_raj_shinobi_47?theme=unicorn&font=Cutive%20Mono&ext=heatmap)
 
 
